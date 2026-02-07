@@ -44,4 +44,4 @@ Explain artificial intelligence in simple words.
 
 ## Output Screenshot
 
-![Text Generation Output](text_generation_output.png)
+![Text Generation Output](text_generator_output.png)
