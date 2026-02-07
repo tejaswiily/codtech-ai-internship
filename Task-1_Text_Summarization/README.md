@@ -39,4 +39,4 @@ python summarizer.py
 ---
 
 ## Output Screenshot
-
+![Output](summarizer_output.png)
